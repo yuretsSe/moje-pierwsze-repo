@@ -15,4 +15,4 @@
  2. Add to vector database
 
  ## Usage
- Use ***RAG*** application for *optimization* of QA departments.
+ Use ***RAG*** application for *optimization* of QA departments in your companyI.
